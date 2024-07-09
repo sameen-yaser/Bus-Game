@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a8c9cac832f66842973abe3ce2a7353
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bus: {fileID: 4885608407413772226, guid: 9cf9a071ea2b16d4f87c3072262b5727, type: 3}
+  - studentCountText: {instanceID: 0}
+  - busHealthText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
